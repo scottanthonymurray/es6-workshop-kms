@@ -2,7 +2,9 @@
 
 Boilerplate for an ES6 module that uses the [Knowledge Management System (KMS) REST API](https://developers.iu.edu/resources/kms-rest/public-api/).
 
-> For use as part of the JavaScript Community Workshop at [Statewide IT 2019](https://statewideit.iu.edu/).
+For use as part of the JavaScript Community Workshop at [Statewide IT 2019](https://statewideit.iu.edu/).
+
+> Before you start, check out the [list of best practices for writing modules](https://github.com/scottanthonymurray/es6-workshop-boilerplate/blob/master/README.md).
 
 ## How it should work
 
